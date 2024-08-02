@@ -1,2 +1,3 @@
 Now checking for the 3rd commit
 Wonderful this worked now I add another commit but from the Main branch
+Awesome so now I can add another 5th commit for the better practice and understanding :)
