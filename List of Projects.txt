@@ -1,0 +1,33 @@
+List of Projects:
+
+(I) Cybersecurity
+	(1) Chapter 9 : AML
+	(2) Chapter 2 : Detecting Suspicious Activity
+	(3) Chapter 3 : Malware Detection using Transformers and Bert
+	(4) Chapter 4 : Detecting Fake Reviews
+	(5) Chapter 5 : Detecting DeepFakes
+	(6) Chapter 6 : Detecting Machine Generated Text **
+
+(II) Fraud Machine Learning
+	(1) Chapter 4 : Phishing Attacks
+	(2) Chapter 5 : Advanced Phishing attacks
+	(3) Using LLMs for detecting phishing attacks
+	(4) Using CNNs for finding image frauds
+
+(III) DataTrained Lectures:
+	(1) Complete all tutorials and develop a model; use the features on slide bars to classify is a person could have a problem etc.
+
+(IV) Image Processing: 
+	(1) Use transfer learning for detecting basic images 
+	(2) Fine Tune SAM2
+	(3) YOLOv8 Case studies
+
+(V)   LangChain
+	(1) Chatbot using Streamlit
+
+(VI)  Large Language Model
+(VII) SADA
+(IX)  PMLE
+
+basically whatever you keep doing document and make a project out of it
+ 
