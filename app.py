@@ -1,5 +1,9 @@
-import streamlit as st
+import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
+import streamlit as st
+st.write(st.__version__)
+st.write(pd.__version__)
 
 
 st.title('Portfolio')
