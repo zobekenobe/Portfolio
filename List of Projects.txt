@@ -24,6 +24,7 @@ List of Projects:
 
 (V)   LangChain
 	(1) Chatbot using Streamlit
+	(2) New Book altogether
 
 (VI)  Large Language Model
 (VII) SADA
